@@ -19,8 +19,6 @@ typedef float                 f32;
 typedef double                f64;
 typedef long double           f128;
 
-#define NULL		          ((void*)0)
+// #define NULL		          ((void*)0)
 
 #endif /* STDTYPES_H_ */
-
-

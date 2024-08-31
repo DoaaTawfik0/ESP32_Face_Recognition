@@ -1,12 +1,7 @@
 {
     "files.associations": {
-        "app_camera.h": "c",
-        "wifi.h": "c",
-        "esp_wifi.h": "c",
-        "task.h": "c",
-        "error_state.h": "c",
-        "arduino.h": "c",
-        "std_types.h": "c",
-        "pir_interface.h": "c"
+        "wire.h": "c",
+        "object_detection_inferencing.h": "c",
+        "wifi.h": "c"
     }
 }
